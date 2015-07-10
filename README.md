@@ -1,5 +1,7 @@
 # weibo-android-sdk-core
 
+[![Join the chat at https://gitter.im/8tory/weibo-android-sdk-core](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/8tory/weibo-android-sdk-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/8tory/weibo-android-sdk-core.svg)](https://travis-ci.org/8tory/weibo-android-sdk-core)
 
 ![](art/weibo-android-sdk-core.png)
